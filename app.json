@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/main",
-    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/main/README.md",
+    "repository": "https://github.com/AbirHasan2005/Banned-Mirror-Bot.git",
+    "website": "https://github.com/AbirHasan2005/Banned-Mirror-Bot/tree/main",
+    "success_url": "https://github.com/AbirHasan2005/Banned-Mirror-Bot/blob/main/README.md",
     "stack": "container",
     "env": {
       "ENV": {
@@ -19,12 +19,12 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "",
+        "value": "1233237663:AAGBNaQJ4TLMnPhuqeoB_hWtQQYZcLJGdc4",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "",
+        "value": "1rWomzK1yVjkqIbC9p9EBBKJgcf3imGr4",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -39,17 +39,17 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "",
+        "value": "715779594",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
         "description": "Interval of time (in seconds), after which the bot deletes it's message (and command message) which is expected to be viewed instantly. Note: Set to -1 to never automatically delete messages.",
-        "value": "20",
+        "value": "-1",
         "required": false
       },
       "IS_TEAM_DRIVE": {
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
-        "value": "",
+        "value": "True",
         "required": false
       },
       "USE_SERVICE_ACCOUNTS": {
@@ -59,17 +59,17 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "",
+        "value": "https://index.discovery.workers.dev/3:",
         "required": false
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "",
+        "value": "1578262",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "",
+        "value": "664ecb8d62405ae3e3e015216f6e2615",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -79,17 +79,17 @@
       },
       "MEGA_API_KEY": {
         "description": "To authenticate Mega.",
-        "value": "",
+        "value": "kC4G0Iib",
         "required": false
       },
       "MEGA_EMAIL_ID": {
         "description": "Mega Email.",
-        "value": "",
+        "value": "ainalhaque025@gmail.com",
         "required": false
       },
       "MEGA_PASSWORD": {
         "description": "Mega Password.",
-        "value": "",
+        "value": "Abir2005",
         "required": false
       },
       "USER_SESSION_STRING": {
